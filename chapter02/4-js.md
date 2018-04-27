@@ -76,7 +76,7 @@ Web 導向架構（WOA, Web-Oriented Architect）的精神一張圖就能講明�
 
 - Web App 的開發思惟，與 Web Page 有很大的不同。目前 Web App 的 UI 製作，採是強調跨螢幕與裝置的特性，這種設計稱為 Responsive Design。並且，Responsive Design 進向以行動裝置為預設值的做法，也就是「Mobie First」
 
-再次總結這二種模式的重點，Client-Server 是 Data Pull 的概念，而 Device-Server 是 Data Push。Data Push 也稱為 Client Pull，表示用戶端主動更新（Refresh）資料；Data Push 則是 Server Push，由伺服器主動推送資料。
+再次總結這二種模式的重點，Client-Server 是 Data Pull 的概念，而 Device-Server 是 Data Push。Data Pull 也稱為 Client Pull，表示用戶端主動更新（Refresh）資料；Data Push 則是 Server Push，由伺服器主動推送資料。
 
 ---
 
